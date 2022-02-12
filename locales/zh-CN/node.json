@@ -1,0 +1,27 @@
+{
+    "OpenweathermapApi": {
+        "label": {
+            "service": "服务",
+            "method": "方法",
+            "host": "网络主机",
+            "header": "字头段",
+            "value": "值",
+            "isQuery": "查询"
+        },
+        "status": {
+            "requesting": "请求中"
+        },
+        "parameters": {
+            "CurrentWeatherData": "GET /weather",
+            "q": "q",
+            "id": "id",
+            "lat": "lat",
+            "lon": "lon",
+            "zip": "zip",
+            "units": "units",
+            "lang": "lang",
+            "mode": "mode",
+            "optionalParameters": "可选项"
+        }
+    }
+}
